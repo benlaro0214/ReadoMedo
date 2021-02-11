@@ -25,10 +25,10 @@ GNU GPLv3
     
 ## Resources:
     
-Bootstrap (Components):  https://getbootstrap.com/
-Programmable web: https://www.programmableweb.com/
-freeCodeCamp: https://www.freecodecamp.org/
-MDN web docs moz://a: https://developer.mozilla.org/en-US/
-stack overflow: https://stackoverflow.com/
-w3schools.com: https://www.w3schools.com/
-Hackaday.com: https://www.hackaday.com
+*Bootstrap (Components):  https://getbootstrap.com/
+*Programmable web: https://www.programmableweb.com/
+*freeCodeCamp: https://www.freecodecamp.org/
+*MDN web docs moz://a: https://developer.mozilla.org/en-US/
+*stack overflow: https://stackoverflow.com/
+*w3schools.com: https://www.w3schools.com/
+*Hackaday.com: https://www.hackaday.com
