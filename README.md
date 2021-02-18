@@ -1,12 +1,12 @@
  
               
-## test
+## Ben's  README.MD Generator
 
-test 
+This README.md generator's purpose is to make it so that one can spin a quick, painless README.md. Thus removing the problem of staring at a blank README file.  
  
 ## Dependencies
 
-* test                    
+* Node.js + NPM + Inquirer                    
 
                     
 
@@ -18,15 +18,16 @@ test
 * How/where to download your program
 * Any modifications needed to be made to files/folders
 
-### How do use test
-* Write the steps here to how to use your software. Alternatively, link to a video that provides the information test .
+### How do use Ben's  README.MD Generator
+* Write the steps here to how to use your software. Alternatively, link to a video that provides the information I am using animated GIFS .
                                    
 ## Licensing
 
-Apache Version 2.0  ![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0) `[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)` 
+GNU [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) 
                     
 ## Resources:
-                    
+
+
 * Bootstrap (Components):  https://getbootstrap.com/
 * Programmable web: https://www.programmableweb.com/
 * freeCodeCamp: https://www.freecodecamp.org/
